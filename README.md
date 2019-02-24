@@ -3,6 +3,7 @@ Collection of starting templates for different languages and essential/advanced 
 
 2019-02-24 Codegizmo/LanguageTemplates repository is born.
 * The initial languages/concepts that we will have templates are:
+
   A. Languages
     1. C Language
     2. C++ Language
